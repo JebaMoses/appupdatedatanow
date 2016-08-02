@@ -1,6 +1,6 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
-        <title>All in One Messenger</title>
+        <title>One Chat All in One Messenger</title>
         <link>http://appyogi.com/</link>
         <description>One Chat - All In One Messenger is a native Mac app wrapper for Multiple Messengers</description>
         <language>en</language>
@@ -10,17 +10,12 @@
                 <h4>NOTE: This update cannot be applied automatically and must be downloaded manually by clicking "Learn More"</h4>
                     <h2>Features</h2>
                     <ul>
-                        <li>All in one messenger for all your communication needs</li>
-                        <li>Notification for all meesengers</li>
-                        <li>Reply from notification</li>
-                         <li>You can select your prefered notification sound</li>
-                          <li>Menu bar icon represents the number of notifications in indicidual messsengers</li>
-
+                        <li>This is the first launch</li>
                     </ul>
                 ]]></description>
-            <pubDate>Friday, 29 Jul 2016 12:30:00 +0000</pubDate>
+            <pubDate>Sunday, 7 Aug 2016 12:30:00 +0000</pubDate>
              <sparkle:version>1.0.0</sparkle:version>
-             <link>http://appyogi.com/apps/</link>
+             <link>macappstore://itunes.apple.com/us/app/one-chat-all-in-one-messenger/id1139742811?ls=1&mt=8</link>
              </item>
              </channel>
 </rss>
